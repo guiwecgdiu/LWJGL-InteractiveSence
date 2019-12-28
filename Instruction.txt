@@ -1,0 +1,32 @@
+This .txt file is written for the Compuert Graphic Assignment 2!
+Jiadi Li UCD Number 17205985
+
+
+Spiderman met a crashed Bus. As a great neighbour of the public, the hero needs to discover and collect at least four energy boxes distributed 
+within the sences. Then load them on to the Bus one by one. After the energy bar is fullfilled (4 /4), the spiderman can use the 'interaction' action to make the 
+Bus move again. 
+
+
+
+Controller: Only use keyboards
+ 
+Avater Control:
+- Move: Use Up Down Right Left to move
+- Fly: Hold the 'Space' to jet fly
+- Interaction :Simply press 'F' (Don't hold it) to collect energy bar, load the car also make the car move.
+	(It may fail in some cases , just try it again)
+
+Camera Control:
+- Yaw "Q" and "W"
+- Pitch "C" and "V"
+- Move "E" "W" "S" "D" 
+I set it for a easier finding the hidden 'energy bar' needed to be collected
+
+Sence Control
+- If you prefer a dark sence
+- Press 'G' to change its theme
+
+
+When you approach an iteractive object ,an orange sign will appear on the top of avater, then perform 'F' it will work.
+
+ 
